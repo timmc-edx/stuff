@@ -1,3 +1,4 @@
+#!/bin/python3
 """
 Accepts YAML on stdin and prints redacted YAML to stdout.
 
